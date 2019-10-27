@@ -13,7 +13,7 @@ irtDemo("mle")
 irtDemo("est[]2pl")
 irtDemo("est[]3pl")
 ```
-Shiny web applications:
+Shiny web applications:   
 https://irtdemo.shinyapps.io/mlest/   
 https://irtdemo.shinyapps.io/est2pl/    
 https://irtdemo.shinyapps.io/est3pl/    
