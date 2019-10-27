@@ -14,9 +14,9 @@ irtDemo("est[]2pl")
 irtDemo("est[]3pl")
 ```
 Shiny web applications:
-[](https://irtdemo.shinyapps.io/mlest/)
-[](https://irtdemo.shinyapps.io/est2pl/)
-[](https://irtdemo.shinyapps.io/est3pl/)
-[](https://irtdemo.shinyapps.io/eapmap/)
-[](https://irtdemo.shinyapps.io/mirt/)
+(https://irtdemo.shinyapps.io/mlest/)
+(https://irtdemo.shinyapps.io/est2pl/)
+(https://irtdemo.shinyapps.io/est3pl/)
+(https://irtdemo.shinyapps.io/eapmap/)
+(https://irtdemo.shinyapps.io/mirt/)
 
